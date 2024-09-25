@@ -5,6 +5,8 @@
 ## First COMETA workshop on artificial intelligence for multi-boson physics
 ## NIKHEF 2-3 Oct 2024
 
+https://indico.cern.ch/event/1440583/overview
+
 ### Run in the terminal
 ```
 $ virtualenv cms
