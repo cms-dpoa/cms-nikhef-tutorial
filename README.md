@@ -12,6 +12,12 @@ https://indico.cern.ch/event/1440583/overview
 $ virtualenv cms
 $ source cms/bin/activate
 $ pip install -r requirements.txt
-$ jupyter notebook
+$ jupyter lab
 ```
+
+### Run in Binder
+Click on the "launch binder" above
+
+## Acknowledgements
+The ML example notebook has been adapted from [QCDJetMachineLearning](https://github.com/cernopendata-datascience/QCDJetsMachineLearning)
 
