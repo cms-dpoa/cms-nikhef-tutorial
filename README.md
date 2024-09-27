@@ -15,6 +15,13 @@ $ pip install -r requirements.txt
 $ jupyter lab
 ```
 
+You may find (as I found on my Mac) that in the venv that despite installing `jupyter` in the venv that
+the version used is still the system one. In this case you may find that running
+```
+$ cms/bin/jupyter lab
+```
+works.
+
 ### Run in Binder
 Click on the "launch binder" above
 
