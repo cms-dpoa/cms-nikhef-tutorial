@@ -2,8 +2,7 @@
 
 # CMS Open Data Tutorial
 
-## First COMETA workshop on artificial intelligence for multi-boson physics
-## NIKHEF 2-3 Oct 2024
+## First COMETA workshop on artificial intelligence for multi-boson physics, NIKHEF 2-3 Oct 2024
 
 https://indico.cern.ch/event/1440583/overview
 
@@ -21,6 +20,8 @@ the version used is still the system one. In this case you may find that running
 $ cms/bin/jupyter lab
 ```
 works.
+
+NOTE: The dependency on `tensorflow` requires `python >= 3.10`
 
 ### Run in Binder
 Click on the "launch binder" above
