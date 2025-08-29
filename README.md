@@ -21,11 +21,11 @@ $ cms/bin/jupyter lab
 ```
 works.
 
-NOTE: The dependency on `tensorflow` requires `python >= 3.10`
-
 ### Run in Binder
 Click on the "launch binder" above
 
 ## Acknowledgements
 The ML example notebook has been adapted from [QCDJetMachineLearning](https://github.com/cernopendata-datascience/QCDJetsMachineLearning)
 
+## Notes
+Since the workshop the ML example notebook has been updated to use PyTorch instead of TensorFlow. The version of the notebook used in the workshop can be found by using the `nikhef` tag of this repo.
